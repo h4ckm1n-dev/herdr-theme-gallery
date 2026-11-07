@@ -1,3 +1,5 @@
+> **Moved to [h4ckm1n-dev/herdr-mods](https://github.com/h4ckm1n-dev/herdr-mods).** This repo is archived; install from there with `./install.sh`.
+
 # Theme Gallery
 
 **Every Ghostty theme, in [Herdr](https://herdr.dev).** Press <kbd>⌘</kbd><kbd>⇧</kbd><kbd>T</kbd> and browse more than 800 terminal themes. Herdr's own themes sit alongside the whole Ghostty collection. Move through the list and the whole app recolours as you go. Press Enter to keep a theme, or Esc to go back to the one you had.
